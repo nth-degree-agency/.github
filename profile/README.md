@@ -1,3 +1,4 @@
+![и это только степень](https://raw.githubusercontent.com/nth-degree-agency/.github/main/github_banner.png)
 # и это только степень°
 
 > *Агентство разработки · Санкт-Петербург*
